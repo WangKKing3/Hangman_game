@@ -5,7 +5,7 @@ int main() {
 	
 
 
-
+	std::cout << "no" << std::endl;
 
 
 
